@@ -68,6 +68,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         }
     }
+    public void prueba(){
+
+    }
     public void borrar(){
         etxResultado.setText("");
         etxNum1.setText("");
